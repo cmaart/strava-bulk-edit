@@ -6,6 +6,8 @@ _2018-12-07 Update: This no longer works with the latest updates to the Strava s
 
 ## Workaround for now
 
+Go to: https://www.strava.com/athlete/training
+
 Paste this in your Console in the developer tools (F12) and change 'everyone' near the bottom to the visibility you want to have for all activities. Possible values are: 'everyone', 'followers_only' and 'only_me'
 
 ```js
